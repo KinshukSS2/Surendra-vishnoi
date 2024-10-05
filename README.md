@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)()
+[![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)()
 
 <h1 align="center">Hi 👋, I'm Surendra Vishnoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -12,6 +12,7 @@
 - 💬 Ask me about **C++,HTML ,CSS**
 
 - 📫 How to reach me **surenvishnoi05@gmail.com**
+- ⚡ Fun fact: **Currently writing bugs that look like features.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

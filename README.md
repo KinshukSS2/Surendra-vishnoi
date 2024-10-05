@@ -1,8 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)()
+![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)
 
 <h1 align="center">Hi 👋, I'm Surendra Vishnoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendra-vishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="surendra-vishnoi" /> </p>

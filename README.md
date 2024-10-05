@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)()
+![MasterHead](https://raw.githubusercontent.com/amaan14999/amaan14999/refs/heads/main/greetings.gif)()
 
 <h1 align="center">Hi 👋, I'm Surendra Vishnoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
